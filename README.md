@@ -1,7 +1,7 @@
 ## React-native-UberClone
 
 
-## FoodieApp
+## UberClone
 
 Food delivery application made with React-native
 <!-- ## Features -->
